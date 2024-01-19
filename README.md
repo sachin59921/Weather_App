@@ -10,7 +10,7 @@ This is a simple weather application built with React.js that allows users to ch
 ## Getting Started
 To run the app locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone this repository: `git clone https://github.com/sachin59921/Weather_App.git`
 2. Navigate to the project directory: `cd weather-app`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
@@ -29,7 +29,7 @@ To run the app locally, follow these steps:
 The app uses the OpenWeatherMap API. To use your API key, sign up on the OpenWeatherMap website and replace the placeholder API key in the `makeApiCall` function within `App.js`.
 
 ## Screenshots
-![Weather App Screenshot](screenshots/weather-app.png)
+![Weather App Screenshot](src\images\screenshort.PNG)
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.

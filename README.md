@@ -14,7 +14,7 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory: `cd weather-app`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
-5. Open your browser and visit `http://localhost:3000`
+5. Open your browser and visit `https://weather-forcast-app-2024.netlify.app/`
 
 ## Usage
 1. Enter the desired city in the input field.
@@ -28,8 +28,6 @@ To run the app locally, follow these steps:
 ## API Key
 The app uses the OpenWeatherMap API. To use your API key, sign up on the OpenWeatherMap website and replace the placeholder API key in the `makeApiCall` function within `App.js`.
 
-## Screenshots
-![Weather App Screenshot](src\images\screenshort.PNG)
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
